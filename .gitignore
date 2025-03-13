@@ -1,2 +1,7 @@
 __pycache__/
+<<<<<<< HEAD
 requirement.txt/
+=======
+pyenv/
+viz_env/
+>>>>>>> 65fef0ff8bcf6ccb6c6bc0d0626df184fb695022
