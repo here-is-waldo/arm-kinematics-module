@@ -3,5 +3,9 @@ __pycache__/
 requirement.txt/
 =======
 pyenv/
+<<<<<<< HEAD
 viz_env/
 >>>>>>> 65fef0ff8bcf6ccb6c6bc0d0626df184fb695022
+=======
+venv/
+>>>>>>> 97f447e63f48fc0e38dd975f90f5617a895ea694
